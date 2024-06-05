@@ -1,4 +1,4 @@
-# Trabalho - Estudo comparativo de métodos de ordenação
+# Trabalho - Estudo comparativo de métodos de ordenação - Junho/2024
 Projeto realizado como método avaliativo da disciplina de Estrutura de Dados, onde o objetivo é analisar e comparar alguns métodos de ordenação feitos na linguagem C++.  
 
 Para realizar alterações na base de dados, é necessário seguir o mesmo padrão do conteúdo do list.txt, apenas um número por linha.
