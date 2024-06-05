@@ -70,7 +70,7 @@ int main () {
 	printArray(listaQuick, n); // comentar essa linha caso nao queira exibir a lista organizada no console
    
     // para parar o relógio e calcular o tempo de execução
-    timedif = ((double)clock() - time1) / CLOCKS_PER_SEC;
+    timedif = ( ((double) clock()) / CLOCKS_PER_SEC) - time1;
     cout << "Tempo de execucao do Quick Sort: " << timedif << " segundos" << endl;
     
 	
